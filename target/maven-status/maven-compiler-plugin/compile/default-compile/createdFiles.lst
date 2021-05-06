@@ -1,0 +1,10 @@
+api\model\Users.class
+api\model\UserCreated.class
+api\model\Data.class
+services\UserService.class
+api\model\ResponseHeaders.class
+api\config\EntityConfiguration$1.class
+api\config\EntityConfiguration$2.class
+services\ResponseHeadersService.class
+api\config\EntityConfiguration.class
+api\model\User.class
